@@ -1,0 +1,8 @@
+### IntelliJ IDEA ###
+.idea/
+
+### Resources ###
+src/test/resources/config.json
+
+### Target ###
+target/
