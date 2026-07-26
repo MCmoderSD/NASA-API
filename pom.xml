@@ -74,7 +74,7 @@
         <dependency>
             <groupId>com.twelvemonkeys.imageio</groupId>
             <artifactId>imageio-tiff</artifactId>
-            <version>3.13.1</version>
+            <version>3.14.0</version>
         </dependency>
 
         <!-- WebP -->
