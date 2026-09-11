@@ -6,7 +6,7 @@
 
     <groupId>de.MCmoderSD</groupId>
     <artifactId>NASA-API</artifactId>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
 
     <name>NASA-API</name>
     <description>A lightweight Java wrapper for NASA's Open APIs</description>
