@@ -34,7 +34,7 @@ Add the dependency to your `pom.xml` file:
 <dependency>
     <groupId>de.MCmoderSD</groupId>
     <artifactId>NASA-API</artifactId>
-    <version>1.0.3</version>
+    <version>1.0.4</version>
 </dependency>
 ```
 
@@ -51,7 +51,7 @@ import static java.lang.IO.println;
 void main() {
 
     // API Key
-    var apiKey = "DEMO_KEY"; // Replace with your own API key from https://api.nasa.gov/
+    var apiKey = "DEMO_KEY"; // Replace it with your own API key from https://api.nasa.gov/
 
     // Initialize NasaAPI
     var api = new NasaAPI(apiKey);

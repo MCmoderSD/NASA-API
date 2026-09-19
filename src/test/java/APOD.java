@@ -7,7 +7,7 @@ import static java.lang.IO.println;
 void main() {
 
     // API Key
-    var apiKey = "DEMO_KEY"; // Replace with your own API key from https://api.nasa.gov/
+    var apiKey = "DEMO_KEY"; // Replace it with your own API key from https://api.nasa.gov/
 
     // Initialize NasaAPI
     var api = new NasaAPI(apiKey);
