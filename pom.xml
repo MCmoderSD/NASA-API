@@ -6,7 +6,7 @@
 
     <groupId>de.MCmoderSD</groupId>
     <artifactId>NASA-API</artifactId>
-    <version>1.0.4</version>
+    <version>1.0.5</version>
 
     <name>NASA-API</name>
     <description>A lightweight Java wrapper for NASA's Open APIs</description>
@@ -46,7 +46,7 @@
         <dependency>
             <groupId>tools.jackson.core</groupId>
             <artifactId>jackson-databind</artifactId>
-            <version>3.2.2</version>
+            <version>3.2.3</version>
         </dependency>
 
         <!-- TwelveMonkeys Core -->
